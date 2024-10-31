@@ -1,0 +1,60 @@
+/* Config step 1 */
+.srvOption, .srvHelp { display: none;}
+
+.longinput { width: 330px; padding: 10px; margin-bottom: 15px; font-size:14px; font-style:italic; color:#565656;}
+
+/* Config step 2 */
+.setingOptionsBox {float: left; width: 300px;}
+
+.setingOptionsBox.disabled { color:#b9b9b9;}
+
+/*dashboard*/
+
+.ui-progressbar  {width:450px; height:18px;}
+.ui-widget-content { background: #fff; }
+
+.loading_bar {font-size:11px;color:#666;padding-top:15px;}
+.loading_bar.static > .static_image {display: block;}
+.loading_bar.dinamic > .static_image {display: none;}
+.loading_bar.static > .dinamic_image {display: none;}
+.loading_bar.dinamic > .dinamic_image {display: block;}
+
+.pb_action { text-decoration: none; color: #565656; margin-right:15px; font-weight: bold; font-size:12px }
+
+.pb_action2 { text-decoration: none; color: #565656; font-weight: bold; }
+
+.pba_details {font-size:10px}
+
+
+.tab:hover{
+	background: -moz-linear-gradient(top, #d54e21 0%, #F3F3F3 10%);
+	background: -webkit-gradient(linear, top right, top left, color-stop(0%, #d54e21), color-stop(10%,#F3F3F3));
+	background: -webkit-linear-gradient(top, #d54e21 0%,#F3F3F3 10%);
+	background: linear-gradient(top, #d54e21 0%,#F3F3F3 10%);
+}
+
+.tab.tabactive:hover {
+	background: -moz-linear-gradient(top, #d54e21 0%, #FFFFFF 10%);
+	background: -webkit-gradient(linear, top right, top left, color-stop(0%, #d54e21), color-stop(10%,#FFFFFF));
+	background: -webkit-linear-gradient(top, #d54e21 0%,#FFFFFF 10%);
+	background: linear-gradient(top, #d54e21 0%,#FFFFFF 10%);
+}
+
+.tab.t_tabactive:hover{
+	background: -moz-linear-gradient(top, #d54e21 0%, #FCFCFC 10%);
+	background: -webkit-gradient(linear, top right, top left, color-stop(0%, #d54e21), color-stop(10%,#FCFCFC));
+	background: -webkit-linear-gradient(top, #d54e21 0%,#FCFCFC 10%);
+	background: linear-gradient(top, #d54e21 0%,#FCFCFC 10%);
+}
+
+
+.widefat {
+	background: -moz-linear-gradient(top, #e0e0e0 0%, #fff 100%);
+	background: -webkit-gradient(linear, top right, top left, color-stop(0%, #e0e0e0), color-stop(100%,#fff));
+	background: -webkit-linear-gradient(top, #e0e0e0 0%,#fff 100%);
+	background: linear-gradient(top, #e0e0e0 0%,#fff 100%);
+}
+
+
+hr.separator {margin: 15px 0 ; border: none; height: 1px; background-color: #D59F8D;}
+

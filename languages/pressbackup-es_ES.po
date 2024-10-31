@@ -1,0 +1,635 @@
+# Translation of 3.3.x in Spanish (Spain)
+
+# Pagina 00
+
+msgid "Pressbackup is the easiest plugin available for backing up your wordpress site automatically,"
+msgstr "Pressbackup es el plugin m&aacute;s f&aacute;cil disponible para hacer los backups tu sitio wordpress autom&aacute;ticamente,"
+
+msgid "using Amazon S3, Pressbackup Pro, or a local folder"
+msgstr "usando Amazon S3, Pressbackup Pro o una carpeta local"
+
+msgid "Using Amazon cloud technology, pressbackup allows your wordpress blog administrator to schedule backups of your entire site"
+msgstr "Usando la tecnolog&iacute;a de nube de Amazon, pressbackup le permite al administrador del blog en wordpress programar backups de todo el sitio"
+
+msgid "restore backups, and migrate your site in the event of your server failure or moving"
+msgstr "restaurar backups y migrar su sitio en el caso de la falla en el servidor"
+
+msgid "Pressbackup is free to use with your own Amazon S3 account"
+msgstr "Pressbackup es gratis para utilizar con su propia cuenta de Amazon S3"
+
+msgid "or you can purchase a pro subscri"
+msgstr "o puede comprar un cuenta pro"
+
+# Pagina 01
+
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "Welcome and Thanks for installing PressBackup Express!"
+msgstr "¡Bienvenido y Gracias por instalar PressBackup Express!"
+
+msgid "Pressbackup allows you to schedule backups of your entire site, restore backups, and migrate your site in the event of your server failure or moving."
+msgstr "Pressbackup te permite programar backups para todo su sitio web, restaurar backups, y migrar su sitio en el caso de la falla en el servidor."
+
+msgid "Now press button start setup and enjoy your backups."
+msgstr "Ahora presiona el bot&oacute; de inicio de configuraci&oacute;n y disfruta de tus copias de seguridad."
+
+msgid "Start Setup"
+msgstr "Comenzar Configuraci&oacute;n"
+
+msgid "Signup for PressBackup News to get updates"
+msgstr "Suscribase a las noticias de PressBackup para obtener actualizaciones"
+
+msgid "Your email address here"
+msgstr "Tu direcci&oacute;n de email aqu&iacute;"
+
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+
+# Pagina 02
+
+msgid "Step 1"
+msgstr "Paso 1"
+
+msgid "Configuration Wizard: Storage Service"
+msgstr "Asistente de Configuraci&oacute;n: Servicio de Almacenamiento"
+
+msgid "In this step you can configure your Storage service to perform backups automatically."
+msgstr "En este paso usted puede configurar su servicio de Almacenamiento para realizar los backups autom&aacute;ticos."
+
+msgid "You can select &quot;None&quot; and download manual backups whenever you want to."
+msgstr "Usted puede seleccionar &quot;Ninguno&quot; y descargar de forma manual sus backups cuando usted lo desee."
+
+msgid "Which storage service will you use?"
+msgstr "¿Qu&eacute; servicio de almacenamiento va a utilizar?"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Localhost"
+msgstr "Host Local"
+
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+msgid "Pressbackup Pro"
+msgstr "Pressbackup Pro"
+
+msgid "Signup for an account!"
+msgstr "¡Reg&iacute;strate para una cuenta!"
+
+msgid "Back"
+msgstr "Atr&aacute;s"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Empty Fields, please ty it again"
+msgstr "Campos vac&iacute;os, por favor intente de nuevo"
+
+msgid "The specified folder does not exist."
+msgstr "La carpeta especificada no existe."
+
+msgid "Incorrect S3 access or secret Keys"
+msgstr "Clave de acceso &oacute; secreta de S3 incorrectas"
+
+msgid "Incorrect PressBackup Pro User/AuthKey"
+msgstr "Usuario &oacute; AuthKey de PressBackup Pro incorrectas"
+
+
+# Pagina 03
+
+msgid "Step 2"
+msgstr "Paso 2"
+
+msgid "Configuration Wizard: Backup settings"
+msgstr "Asistente de Configuraci&oacute;n: Configuraci&oacute;n de los Backups"
+
+msgid "In this step you can configure Backups properties"
+msgstr "En este paso usted puede configurar las propiedades de los Backups"
+
+msgid "If you selected a storage service on previous step, you will be able to select schedule range and number of backups to store."
+msgstr "Si usted seleccion&oacute; un servicio de almacenamiento en el paso previo, ser&aacute; capaz de seleccionar como programar el rango de tiempo y el n&uacute;mero de backups a almacenar."
+
+msgid "What do you want to backup?"
+msgstr "¿Qu&eacute; desea incluir en el backup?"
+
+msgid "Database"
+msgstr "Base de datos"
+
+msgid "Themes"
+msgstr "Temas"
+
+msgid "How often do you want to backup?"
+msgstr "¿Con qu&eacute; frecuencia desea realizar sus backups?"
+
+msgid "Every 12 hours"
+msgstr "Cada 12 horas"
+
+msgid "Every 24 hours"
+msgstr "Cada 24 horas"
+
+msgid "Daily"
+msgstr "Diariamente"
+
+msgid "Weekly"
+msgstr "Semanalmente"
+
+msgid "Monthly"
+msgstr "Mensualmente"
+
+msgid "How many copies do you want to store?"
+msgstr "¿Cu&aacute;ntos backups almacenar?"
+
+msgid "All (may get expensive)"
+msgstr "Todos (puede ser costoso)"
+
+msgid "Last 30"
+msgstr "&Uacute;ltimos 30"
+
+msgid "Last 5"
+msgstr "&Uacute;ltimos 5"
+
+msgid "Last 3"
+msgstr "&Uacute;ltimos 3"
+
+msgid "Finish"
+msgstr "Finalizar"
+
+
+# Pagina 04
+
+msgid "Path to storage folder:"
+msgstr "Ruta de la carpeta de almacenamiento:"
+
+msgid "Your blog base directory is:"
+msgstr "El directorio base de tu blog es:"
+
+msgid "LocalHost Help"
+msgstr "Ayuda para Host Local"
+
+msgid "This is the easiest way to have scheduled backups."
+msgstr "Esta es la forma m&aacute;s sencilla de programar backups."
+
+msgid "Backups will be saved on your host in a folder of your choice."
+msgstr "Los backups ser&aacute;n guardadas en una carpeta a elecci&oacute;n de tu host."
+
+msgid "But be careful, this may get expensive, so in the next step we recommend you to configure to store only a few backups (last 3 or 5)."
+msgstr "Pero sea cuidadoso, esto puede ser costoso, por lo que en el siguiente paso le recomendamos que configure almacenar s&oacute;lo unas pocos backups (&uacute;ltimos 3 &oacute; 5)."
+
+msgid "You must enter the full path to the storage folder, use the base path of your blog folder as reference."
+msgstr "Debe especificar la ruta completa a la carpeta de almacenamiento, utilice la ruta de acceso base de la carpeta del blog como referencia."
+
+msgid "No write permissions for the selected folder"
+msgstr "No tiene permisos de escritura para la carpeta seleccionada"
+
+
+# Pagina 05
+
+msgid "S3 accessKey"
+msgstr "S3 clave de acceso"
+
+msgid "S3 secretKey"
+msgstr "S3 clave secreta"
+
+msgid "Advanced options"
+msgstr "Opciones Avanzadas"
+
+msgid "US S3"
+msgstr "S3 Estados Unidos"
+
+msgid "European S3"
+msgstr "S3 Europeo"
+
+msgid "Amazon S3 Help"
+msgstr "Amazon S3 Ayuda"
+
+msgid "Use your Amazon S3 account to have scheduled backups."
+msgstr "Utiliza tu cuenta de Amazon S3 para tener backups programados."
+
+msgid "Backups will be saved on a bucket automatically created by PressBackup."
+msgstr "Los backups se guardar&aacute;n en un bucket creado autom&aacute;ticamente por PressBackup."
+
+msgid "You must enter the Access and secret Keys provided by Amazon. You can also decide to use american or european Servers in the advanced options."
+msgstr "Debe ingresar la clave de Acceso y la clave Secreta proporcionadas por Amazon. Tambi&eacute;n puede decidir utilizar los servidores estadounidenses o europeos en las opciones avanzadas."
+
+# Pagina 06
+
+msgid "Pressbackup Pro User"
+msgstr "Pressbackup Usuario Pro"
+
+msgid "Pressbackup Pro AuthKey"
+msgstr "Pressbackup Pro AuthKey"
+
+msgid "PressBackup Pro Help"
+msgstr "PressBackup Pro Ayuda"
+
+msgid "Use your purchased Pro account to have scheduled backups."
+msgstr "Utiliza tu cuenta Pro comprada para tener backups programados."
+
+msgid "Using Amazon cloud technology, PressBackup will handle the backups for you."
+msgstr "Usando la tecnolog&iacute;a de nube de Amazon, PressBackup controlar&aacute; los backups para usted."
+
+msgid "You must enter the username and secret Keys provided by PressBackup Pro."
+msgstr "Debe introducir el nombre de usuario y claves secretas proporcionadas por PressBackup Pro."
+
+msgid "Remember that you need to register this blog's URL in your Pro account before this step, or you will get a &quot;wrong credentials&quot; error."
+msgstr "Recuerde que debe registrar la direcci&oacute;n URL de este blog en tu cuenta Pro antes de este paso, o recibir&aacute; un error de &quot;credenciales incorrectas&quot;"
+
+msgid "Important!"
+msgstr "¡Importante!"
+
+msgid "before purchasing a Pro account, check if this software works for you trying any of the free alternatives."
+msgstr "antes de comprar una cuenta Pro, verifique que este software le funcione probando alguna de las alternativas gratis."
+
+
+# Pagina 07
+
+msgid "Dashboard"
+msgstr "Panel Principal"
+
+msgid "Current settings"
+msgstr "Configuraci&oacute;n actual"
+
+msgid "Backup type"
+msgstr "Tipo de backup"
+
+msgid "Scheduled backup"
+msgstr "Backup programado"
+
+msgid "Scheduled backups"
+msgstr "Backups programados"
+
+msgid "Will backup"
+msgstr "Se har&aacute; backup de"
+
+msgid "Next on"
+msgstr "Pr&oacute;ximo"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Disabled"
+msgstr "Inhabilitado"
+
+msgid "Scheduled time"
+msgstr "Tiempo programado"
+
+msgid "Backup now"
+msgstr "Crear backup"
+
+msgid "(Download)"
+msgstr "(Descargar)"
+
+msgid "Restore backup"
+msgstr "Restaurar backup"
+
+msgid "From computer"
+msgstr "Desde la computadora"
+
+msgid "Backup list"
+msgstr "Lista de backups"
+
+msgid "This site"
+msgstr "Este sitio"
+
+msgid "All sites"
+msgstr "Todos los sitios"
+
+msgid "Displaying %1$s - %2$s of %3$s."
+msgstr "Mostrando %1$s - %2$s de %3$s."
+
+msgid "From"
+msgstr "De"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Last"
+msgstr "&Uacute;ltimo"
+
+msgid "First"
+msgstr "Primero"
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "Restore"
+msgstr "Restaurar"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Empty"
+msgstr "Vac&iacute;o"
+
+msgid "Found a bug? go to %1$s and send us"
+msgstr "¿Encontr&oacute; un error? vaya a %1$s y env&iacute;enos"
+
+msgid "this info"
+msgstr "esta informaci&oacute;n"
+
+msgid "Clear TMP folders" 
+msgstr "Borrar carpetas TMP"
+
+msgid "remove scheduled jobs"
+msgstr "eliminar las tareas programadas"
+
+msgid "Back to dashboard"
+msgstr "Volver al panel principal"
+
+
+
+# Pagina 08
+
+msgid "Service"
+msgstr "Servicio"
+
+msgid "Select a Storage Service"
+msgstr "Seleccionar un Servicio de Almacenamiento"
+
+msgid "Here you can configure your Storage service, to perform backups automatically."
+msgstr "Aqu&iacute; usted puede configurar su Servicio de Almacenamiento, para realizar backups autom&aacute;ticamente."
+
+msgid "You can select &quot;None&quot;, and download manual backups whenever you want to."
+msgstr "Usted puede seleccionar &quot;Ninguno&quot; y descargar de forma manual sus backups cuando usted lo desee."
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Go back to dashboard"
+msgstr "Volver al panel principal"
+
+msgid "Service Saved!"
+msgstr "¡Servicio Guardado!"
+
+msgid "or"
+msgstr "o"
+
+# Pagina 09
+
+msgid "Settings"
+msgstr "Opciones"
+
+msgid "Configuration Settings"
+msgstr "Opciones de configuraci&oacute;n"
+
+msgid "Here you can configure Backups properties"
+msgstr "Aqu&iacute; puede configurar las propiedades de sus backups"
+
+msgid "Preferences Saved!"
+msgstr "¡Preferencias Guardadas!"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "Specify the scheduled backup time range"
+msgstr "Especifique el intervalo de tiempo para el backup programado"
+
+msgid "Specify the number of backups to be stored"
+msgstr "Especificar el n&uacute;mero de backups a almacenar"
+
+msgid "Specify what you would like to backup"
+msgstr "Especifique lo que desea incluir en el backup"
+
+msgid "Empty/wrong Fields, please try it again"
+msgstr "Campos vac&iacute;os/incorrectos, por favor intente de nuevo"
+
+
+
+# Pagina 10
+
+msgid "Compatibility"
+msgstr "Compatibilidad"
+
+msgid "Compatibility Settings"
+msgstr "Opciones de Compatibilidad"
+
+msgid "Here you can configure PressBackup compatibility Settings"
+msgstr "Aqu&iacute; puede configurar las Opciones de compatibilidad de PressBackup"
+
+msgid "Pressbackup can run in a huge ecosystem: different HTTP Server types and versions, different PHP versions, etc."
+msgstr "Pressbackup se puede ejecutar en un ecosistema enorme: diferentes tipos y versiones de servidores HTTP, diferentes versiones de PHP, etc."
+
+msgid "So, because of that it may have some problems"
+msgstr "Por lo tanto, debido a esto se pueden tener algunos problemas"
+
+msgid "Background process creation"
+msgstr "Creaci&oacute;n de procesos de fondo"
+
+msgid "Zip Creation"
+msgstr "Creaci&oacute;n Zip"
+
+msgid "Soft"
+msgstr "Suave"
+
+msgid "Medium"
+msgstr "Mediano"
+
+msgid "Hard"
+msgstr "Duro"
+
+msgid "Background process creation - Help"
+msgstr "Creaci&oacute;n de procesos de fondo - Ayuda"
+
+msgid "The process of create and send the backup can take too much time, and the browser can crash after wait more that 30 seconds. because of thats we have to do that process in background."
+msgstr "El proceso de crear y enviar el backup puede tomar mucho tiempo, y el explorador puede bloquearse despu&eacute;s de esperar m&aacute;s de 30 segundos. Debido a eso es que tenemos que hacer ese proceso en un segundo plano."
+
+msgid "and the browser can crash after wait more that 30 seconds"
+msgstr "y el explorador puede bloquearse despu&eacute;s de esperar m&aacute;s de 30 segundos"
+
+msgid "because of thats we have to do that process in background"
+msgstr "debido a eso es que tenemos que hacer ese proceso en un segundo plano"
+
+msgid "If you see, on the manual backup, that the progress bar go hide after a few seconds without the wanted result, try to change the value of this setting."
+msgstr "Si se ve en el backup manual, que la barra de progreso se oculta despu&eacute;s de algunos segundos sin el resultado deseado, intente cambiar el valor de esta opci&oacute;n."
+
+msgid "that the progress go hide after a few seconds without the wanted result"
+msgstr "que la barra de progreso se oculta despu&eacute;s de algunos segundos sin el resultado deseado"
+
+msgid "try to change the value of this setting"
+msgstr "intente cambiar el valor de esta opci&oacute;n"
+
+msgid "Zip Creation - Help"
+msgstr "Creaci&oacute;n Zip - Ayuda"
+
+msgid "The backup is created using zip files, this reduce the weight of them."
+msgstr "El backup es creado usando archivos zip, esto recude el peso de los mismos."
+
+msgid "PHP Zip librarie works in almost all hosts, but for the ones with low work capacity (poor RAM and/or poor CPU) and hight amount of info (a bigger blog), it can take too long or produce errors"
+msgstr "La librer&iacute;a PHP Zip funciona en casi todos los hosts, pero para los que tienen capacidad de trabajo baja (pobre RAM y/o pobre CPU) y alta cantidad de informaci&oacute;n (un blog m&aacute;s grande), puede tomar demasiado tiempo o producir errores"
+
+msgid "Shell Zip app work faster and take less resources, but it can not be available on some hosts"
+msgstr "La aplicaci&oacute;n Shell Zip trabaja m&aacute;s r&aacute;pido y usa menos recursos, pero puede no estar disponible en algunos hosts"
+
+msgid "Please do not close your window, this may take a few minutes"
+msgstr "Por favor no cierre esta ventana, esto puede tomar unos minutos"
+
+msgid "Creating Themes folder backup"
+msgstr "Creando backup de la carpeta de Temas"
+
+msgid "Creating Plugins folder backup"
+msgstr "Creando backup de la carpeta de Plugins"
+
+msgid "Creating Uploads folder backup"
+msgstr "Creando backup de la carpeta de Uploads"
+
+msgid "Creating Database backup"
+msgstr "Creando backup de la Base de Datos"
+
+msgid "Task: Sending Backup - %f MB / %f MB"
+msgstr "Tarea: Enviando backup - %f MB / %f MB"
+
+msgid "Task"
+msgstr "Tarea"
+
+msgid "Start sending backup"
+msgstr "Comenzando a enviar el backup"
+
+msgid "Sending backup"
+msgstr "Enviando el backup"
+
+msgid "Folder was not created"
+msgstr "No se creo carpeta"
+
+msgid "Checking Integrity"
+msgstr "Chequeando la Integridad"
+
+msgid "Backup saved!"
+msgstr "¡Backup guardado!"
+
+msgid "Do you really want to delete this backup?"
+msgstr "¿Realmente desea borrar este backup?"
+
+msgid "Deleting backup"
+msgstr "Borrando backup"
+
+msgid "Working..."
+msgstr "Trabajando..."
+
+msgid "Backup deleted!"
+msgstr "¡Backup borrado!"
+
+msgid "Do you really want to apply this backup?"
+msgstr "¿Realmente desea restaurar este backup?"
+
+msgid "Restoring from backup"
+msgstr "Restaurando desde el backup"
+
+msgid "System restored!"
+msgstr "¡Sistema restaurado!"
+
+msgid "Restore your site's backup"
+msgstr "Restaurar un backup del sitio"
+
+msgid "If you previously have downloaded a backup from PressBackup, you can restore it here."
+msgstr "Si ya ha descargado un backup de PressBackup, puede restaurarlo desde aqu&iacute;."
+
+msgid "Be careful!"
+msgstr "¡Cuidado!"
+
+msgid "Your site's data will be replaced and this step can not be undone."
+msgstr "Los datos del sitio ser&aacute;n reemplazados y este paso no se puede deshacer."
+
+msgid "Select a backup from your Hard disk"
+msgstr "Seleccione una copia de seguridad desde el disco duro"
+
+msgid "Max upload size"
+msgstr "M&aacute;ximo tamaño de subida"
+
+msgid "Upload"
+msgstr "Subir"
+
+
+
+#Messages - Backup functions
+
+msgid "Zip file is corrupt - creation failed"
+msgstr "El archivo Zip esta corrupto - la creaci&oacute;n fall&oacute;"
+
+msgid "can not save file on S3"
+msgstr "no se pudo guardar el archivo en S3"
+
+msgid "This blog is not registered on your Pressbackup Pro account"
+msgstr "Este blog no esta registrado en tu cuenta Pro de Pressbackup"
+
+msgid "Connection with Pressbackup Pro fail. Try again later"
+msgstr "La conexi&oacute;n con Pressbackup Pro fall&oacute;. Int&eacute;ntelo nuevamente m&aacute;s tarde"
+
+msgid "Can not store the file in the local host"
+msgstr "No se pudo guardar el archivo en su host local"
+
+msgid "Can not create zip archive for uploads folder!"
+msgstr "¡No se pudo crear el archivo zip para la carpeta uploads!"
+
+msgid "Can not create zip archive for plugins folder!"
+msgstr "¡No se pudo crear el archivo zip para la carpeta plugins!"
+
+msgid "Can not create zip archive for themes folder!"
+msgstr "¡No se pudo crear el archivo zip para la carpeta themes!"
+
+msgid "can not create file to store server for this SQL dump"
+msgstr "no se pudo crear el archivo para almacenar el servidor para esta SQL dump"
+
+msgid "can not create file for SQL dump"
+msgstr "No se pudo crear el archivo para SQL dump"
+
+msgid "Backup seems corrupt. Process aborted"
+msgstr "El backup parece corrupto. Proceso abortado"
+
+msgid "Can not restore themes, themes backup is corrupt. Restore process aborted"
+msgstr "No se pudo restaurar la carpeta de temas, el backup de temas esta corrupto. Proceso de restauraci&oacute;n abortado"
+
+msgid "Can not restore themes folder, permission denied to write on <b>wp-content</b> folder. Restore process aborted"
+msgstr "No se pudo restaurar la carpeta de temas, permiso denegado para escribir en la carpeta <b>wp-content</b>. Proceso de restauraci&oacute;n abortado"
+
+msgid "Can not restore uploads folder, uploads backup is corrupt. Restore process aborted"
+msgstr "No se pudo restaurar la carpeta de uploads, el backup de uploads esta corrupto. Proceso de restauraci&oacute;n abortado"
+
+msgid "Can not restore uploads folder, permission denied to write on <b>wp-content</b> folder. Restore process aborted"
+msgstr "No se pudo restaurar la carpeta de uploads, permiso denegado para escribir en la carpeta <b>wp-content</b>. Proceso de restauraci&oacute;n abortado"
+
+msgid "Can not restore plugins folder, plugins backup is corrupt. Restore process aborted"
+msgstr "No se pudo restaurar la carpeta de plugins, el backup de plugins esta corrupto. Proceso de restauraci&oacute;n abortado"
+
+msgid "Can not restore plugins folder, permission denied to write on <b>wp-content</b> folder. Restore process aborted"
+msgstr "No se pudo restaurar la carpeta de plugins, permiso denegado para escribir en la carpeta <b>wp-content</b>. Proceso de restauraci&oacute;n abortado"
+
+msgid "Can not restore database, missing files. Restore process aborted"
+msgstr "No se pudo restaurar la database, faltan archivos. Proceso de restauraci&oacute;n abortado"
+
+msgid "Can not restore database, missing files (.sql). Restore process aborted"
+msgstr "No se pudo restaurar la database, faltan archivos (.sql). Proceso de restauraci&oacute;n abortado"
+
+msgid "Missing backup file name"
+msgstr "Se perdi&oacute; el nombre del backup"
+
+msgid "Failed to get file"
+msgstr "Error al obtener el archivo"
+
+msgid "Failed to get file 2"
+msgstr "Error al obtener el archivo 2"
+
+#misc.php
+
+msgid "Can not create: "
+msgstr "No se pudo crear: "
+
+msgid "Zip file corrupt: "
+msgstr "El archivo zip esta corrupto: "
+
+msgid "Can not open dir: "
+msgstr "No se pudo abrir el directorio: "
+
+msgid "Can not add file: "
+msgstr "No se pudo añadir el archivo: "
